@@ -3,7 +3,7 @@
 	<groupId>com.github.notifo4j</groupId>
 	<artifactId>notifo-client</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>notifo4j</name>
     <description>notifo client for java</description>
     <url>http://github.com/sps/notifo4j</url>
