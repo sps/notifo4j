@@ -6,6 +6,26 @@
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>notifo4j</name>
+    <description>notifo client for java</description>
+    <url>http://github.com/sps/notifo4j</url>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <scm>
+        <url>http://github.com/sps/notifo4j</url>
+        <connection>scm:git:git://github.com/sps/notifo4j.git</connection>
+    </scm>
+    <developers>
+        <developer>
+            <id>sps</id>
+            <name>Sean Scanlon</name>
+            <email>sean.scanlon@gmail.com</email>
+        </developer>
+    </developers>
 	<build>
 		<plugins>
 			<plugin>
