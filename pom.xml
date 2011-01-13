@@ -23,6 +23,7 @@
     <scm>
         <url>http://github.com/sps/notifo4j</url>
         <connection>scm:git:git://github.com/sps/notifo4j.git</connection>
+        <developerConnection>scm:git:git://github.com/sps/notifo4j.git</developerConnection>
     </scm>
     <developers>
         <developer>
