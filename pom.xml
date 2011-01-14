@@ -21,7 +21,7 @@
     </licenses>
     <scm>
         <url>git@github.com:sps/notifo4j.git</url>
-        <connection>scm:git:git://github.com/sps/notifo4j.git</connection>
+        <connection>scm:git:git@github.com:sps/notifo4j.git</connection>
         <developerConnection>scm:git:git@github.com:sps/notifo4j.git</developerConnection>
     </scm>
     <developers>
